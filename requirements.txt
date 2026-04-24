@@ -1,5 +1,5 @@
 xgboost==1.4.2
-
+setuptools
 streamlit
 pandas
 numpy
